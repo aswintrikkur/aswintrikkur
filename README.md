@@ -35,7 +35,7 @@ I'm actively learning MongoDB to expand my backend skills. Understanding how to 
 
 <!--🌐 [Portfolio Website]() -->  
 📧 [Email](aswin.trikkur@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/aswinkumarcm) 
+💼 [LinkedIn](https://www.linkedin.com/in/aswinkumarcm/) 
 
 Feel free to reach out if you'd like to collaborate, discuss projects, or share tech insights!  
 Learn, Grow, and Code On!  👩‍💻✨
