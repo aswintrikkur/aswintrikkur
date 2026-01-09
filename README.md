@@ -2,7 +2,16 @@
 
 
 ## About Me
- *Passionate MERN stack developer with a strong foundation in HTML, CSS, and JavaScript. I specialize in building dynamic and responsive web applications using React for the frontend and Node.js with Express for the backend. Currently, I'm diving deep into MongoDB to enhance my database skills. My journey in the tech world has been exciting, and I'm thrilled to continue learning and applying my knowledge to real world projects.*   
+I’m not just a developer — I solve problems.
+
+I enjoy learning and building scalable applications, understanding system design,
+and thinking deeply about how software should evolve over time.
+
+I believe tech stacks are just tools.
+What truly matters is an engineer’s way of thinking —
+breaking down complex problems, evaluating trade-offs,
+and choosing the most suitable solution for the context.
+ 
   <img align="right" src="https://ouch-cdn2.icons8.com/aa-wDxZIZMZXPRM9yfA3__fncUXSlsBJ0L1vPAtmuW0/rs:fit:608:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNDc3/L2UyMTMwZGI2LWM1/NjEtNDMzMC04MDYw/LWFmNzQ3NDVmNzkw/Yi5zdmc.png" alt="Demo GIF" width="400" height="350">
 <br>
 <br>
@@ -19,6 +28,20 @@
 <br>
 <br>
 <br>
+
+
+## 🔍 What I Care About
+- Learning how to design scalable and maintainable systems
+- Applying clean architecture principles and domain-driven thinking in practice
+- Making intentional technical decisions and understanding their trade-offs
+- Writing code that clearly communicates intent and logic
+- Collaborating with teams that care about the value delivered by the service
+- Continuously learning through building real-world projects
+
+
+<br>
+<br>
+
 
 
 ## ⚡ Best Projects
@@ -48,16 +71,27 @@
 <br/>
 <br/>
 
+<br>
+<br>
+
 ## 🚀 Current Project
 
 🛍️ **E-Commerce Platform**  
-I'm currently working on an exciting e-commerce project where I'm utilizing my MERN stack expertise. This involves creating a seamless shopping experience for users, implementing secure payment gateways, and managing the backend operations efficiently.
+Developing an e-commerce platform that allows customers to get their photos framed and have the finished photo frames delivered to their doorstep.
+
+
+<br>
+<br>
  
 
-## 🛍️ Learning
 
-📚 **MongoDB Mastery**  
-I'm actively learning MongoDB to expand my backend skills. Understanding how to design, implement, and manage databases effectively is a crucial aspect of building robust applications.
+## 💡 Learning
+Currently learning and building projects by applying the Domain-Driven Design (DDD) approach,
+with a focus on understanding business domains, boundaries, and core problem areas.
+
+<br>
+<br>
+
 
 ## 🌐 Let's Connect
 
