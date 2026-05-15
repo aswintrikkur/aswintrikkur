@@ -43,30 +43,112 @@ and choosing the most suitable solution for the context.
 <br>
 
 
+## ⚡ Projects
 
-## ⚡ Best Projects
+<table>
+  <tr>
+    <td width="180">
+      <img 
+        src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" 
+        height="110"
+      />
+    </td>
+    <td>
+      
+### SDS Security  
+#### <a href="https://sds-security-sigma.vercel.app/">🔗 Live Link</a>
 
-<div   > 
-  <div   > 
-    
-   #### TRAVEL ROUTE  >>   <a href="https://toll-calculator-react-two.vercel.app/">Live Link </a>   >>>   <a href="https://toll-calculator-react-two.vercel.app/">Repo </a>
-  <img align='center' height="65" src="https://uxwing.com/wp-content/themes/uxwing/download/location-travel-map/country-location-icon.png" />
- 
-  </div>
-  
-  <div align="center"> 
-    
-  #### UP TREND  >>  <a href="https://up-trend-client.vercel.app/">Live Link</a>  >>>   <a href="https://github.com/aswintrikkur/upTrend___E-commerce/">Repo </a>
-  <img  float="left"  height="65" src="https://up-trend-client.vercel.app/images/logo_big.png"/>
-  </div>
- 
-  <div >  
-    
-  ####  JAS MEDS  >>  <a href="https://jas-meds.vercel.app/">Live Link</a>  >>> <a href="https://github.com/aswintrikkur/JAS_meds">Code</a> 
-   <img height="65" src="https://uxwing.com/wp-content/themes/uxwing/download/medical-science-lab/medicines-icon.png"/>
-  </div>
+A modern security services website built with a clean UI and responsive design.  
+Focused on showcasing security solutions, company services, and professional branding.
 
-</div>      
+   </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="180">
+      <img 
+        src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" 
+        height="110"
+      />
+    </td>
+    <td>
+
+### Rootow  
+#### <a href="https://www.rootow.com/">🔗 Live Link</a>
+
+A customized photo frame platform designed to provide users with personalized gifting experiences.  
+Built with scalable architecture and user-focused design.
+
+   </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="180">
+      <img 
+        src="https://cdn-icons-png.flaticon.com/512/1046/1046857.png" 
+        height="110"
+      />
+    </td>
+    <td>
+
+### Hiline Developers  
+#### <a href="https://www.hilinedevelopers.com/">🔗 Live Link</a>
+
+A professional real-estate and construction company website showcasing projects, services, and company portfolio with a modern responsive interface.
+
+   </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="180">
+      <img 
+        src="https://cdn-icons-png.flaticon.com/512/3081/3081559.png" 
+        height="110"
+      />
+    </td>
+    <td>
+
+### Vajraah Stores  
+#### <a href="https://www.vajraahstores.com/">🔗 Live Link</a>
+
+An e-commerce platform designed for product showcasing and online shopping experience with responsive and user-friendly UI.
+
+   </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="180">
+      <img 
+        src="https://cdn-icons-png.flaticon.com/512/854/854878.png" 
+        height="110"
+      />
+    </td>
+    <td>
+
+### Trektroves  
+#### <a href="https://trektroves.vercel.app/">🔗 Live Link</a>
+
+A Google Maps integrated travel utility website that helps users calculate toll expenses and estimate travel costs efficiently.
+
+   </td>
+  </tr>
+</table>
 
 <br/>
 <br/>
